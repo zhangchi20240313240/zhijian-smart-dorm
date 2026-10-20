@@ -1,0 +1,13 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "zhijian-smart-dorm",
+  "version": "1.0.0",
+  "description": "寓见 · 智能宿舍场景联动系统",
+  "main": "",
+  "author": "张池",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}

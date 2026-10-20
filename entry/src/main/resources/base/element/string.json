@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "智能宿舍场景联动" },
+    { "name": "EntryAbility_desc", "value": "寓见主入口" },
+    { "name": "EntryAbility_label", "value": "寓见" }
+  ]
+}

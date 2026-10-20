@@ -1,0 +1,19 @@
+# DevEco Studio / Hvigor
+/.idea/
+/.hvigor/
+/oh_modules/
+/entry/oh_modules/
+/entry/.preview/
+/entry/build/
+/build/
+/local.properties
+/.cxx/
+*.iml
+*.har
+*.hap
+*.hsp
+*.app
+
+# 系统文件
+.DS_Store
+Thumbs.db
